@@ -1,0 +1,22 @@
+{
+  "name": "writeas",
+  "version": "0.0.1",
+  "description": "write.as client",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsnek/writeas.js.git"
+  },
+  "author": "snek <me@gus.host>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devsnek/writeas.js/issues"
+  },
+  "homepage": "https://github.com/devsnek/writeas.js#readme",
+  "dependencies": {
+    "snekfetch": "^3.4.5"
+  }
+}

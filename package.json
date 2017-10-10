@@ -1,11 +1,8 @@
 {
   "name": "writeas",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "write.as client",
   "main": "src/index.mjs",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devsnek/writeas.js.git"
